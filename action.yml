@@ -7,7 +7,7 @@ inputs:
     default: 'World'
 outputs:
   time: # id of output
-    description: 'La hora del saludo'
+    description: 'La hora'
 runs:
   using: 'node12'
   main: 'index.js'
