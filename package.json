@@ -1,0 +1,21 @@
+{
+  "name": "hello-js-action-alu0101118642",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-1920/hello-js-action-EduardoJDH.git"
+  },
+  "author": "Eduardo Díaz Hernández <alu0101118642@ull.edu.es> (https://github.com/EduardoJDH)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-EduardoJDH/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-EduardoJDH#readme"
+}

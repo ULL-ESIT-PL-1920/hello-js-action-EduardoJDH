@@ -1,13 +1,13 @@
 name: 'Hello World'
-description: 'Greet someone and record the time'
+description: 'Saludar y guardar la hora'
 inputs:
-  who-to-greet:
+  who-to-greet:  # id of input
     description: 'Who to greet'
     required: true
     default: 'World'
 outputs:
-  time:
-    description: 'The time we greeted you'
+  time: # id of output
+    description: 'La hora del saludo'
 runs:
   using: 'node12'
   main: 'index.js'
